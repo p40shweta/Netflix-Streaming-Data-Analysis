@@ -129,6 +129,7 @@ The final Power BI dashboard provides key insights into Netflix’s content cata
 
 <img src="Page 1 HOME.png">
 <img src="page 2 MOVIES.png">
+<img src="page 3 SHOWS.png">
 
 ---
 
