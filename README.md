@@ -128,6 +128,7 @@ The final Power BI dashboard provides key insights into Netflix’s content cata
 - **Slicer**: Allows for interactive filtering by genre, release year, and other criteria for deeper insights.
 
 <img src="Page 1 HOME.png">
+<img src="page 2 MOVIES.png">
 
 ---
 
