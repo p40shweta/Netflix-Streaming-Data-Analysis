@@ -127,7 +127,7 @@ The final Power BI dashboard provides key insights into Netflix’s content cata
 - **Pie Chart**: Shows content ratings distribution, helping understand the quality of the Netflix library.
 - **Slicer**: Allows for interactive filtering by genre, release year, and other criteria for deeper insights.
 
-<"img src=Page 1 HOME.png">
+<img src="Page 1 HOME.png">
 
 ---
 
